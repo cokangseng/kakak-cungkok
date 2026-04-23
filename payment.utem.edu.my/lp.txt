@@ -1,6 +1,6 @@
 
 <!DOCTYPE html><html lang="id-ID"><head>
-<link href="https://payment.utem.edu.my/en/" rel="preconnect">
+<link href="https://payment.utem.edu.my/" rel="preconnect">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -8,7 +8,7 @@
 <title>BONENGJITU ✈️ Pilihan Tepat untuk Akses Togel Online yang Stabil</title>
 <meta name="title" content="BONENGJITU ✈️ Pilihan Tepat untuk Akses Togel Online yang Stabil">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://payment.utem.edu.my/en/">
+<link rel="canonical" href="https://payment.utem.edu.my/">
 <link rel="amphtml" href="https://kakak-cungkok.pages.dev/payment.utem.edu.my/amp">
     <link rel="alternate" hreflang="id-id" href="https://kakak-cungkok.pages.dev/payment.utem.edu.my/amp"/>
     <link rel="alternate" href="https://kakak-cungkok.pages.dev/payment.utem.edu.my/amp"/>
@@ -22,12 +22,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="BONENGJITU ✈️ Pilihan Tepat untuk Akses Togel Online yang Stabil">
 <meta name="twitter:description" content="Temukan BONENGJITU sebagai situs togel online terbaik dengan performa cepat, keamanan tinggi, dan kemudahan akses di berbagai perangkat. Pilihan tepat untuk pengalaman online yang lebih praktis.">
-<meta name="twitter:url" content="https://payment.utem.edu.my/en/">
+<meta name="twitter:url" content="https://payment.utem.edu.my/">
 <meta name="twitter:image" content="https://gambardunia.xyz/bonengjitu/logobng.webp">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="BONENGJITU">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://payment.utem.edu.my/en/">
+<meta property="og:url" content="https://payment.utem.edu.my/">
 <meta property="og:title" content="BONENGJITU ✈️ Pilihan Tepat untuk Akses Togel Online yang Stabil">
 <meta property="og:description" content="Temukan BONENGJITU sebagai situs togel online terbaik dengan performa cepat, keamanan tinggi, dan kemudahan akses di berbagai perangkat. Pilihan tepat untuk pengalaman online yang lebih praktis.">
 <meta property="og:image" content="https://kakak-cungkok.pages.dev/BJ/togel-online.jpg">
@@ -693,9 +693,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://payment.utem.edu.my/en/#organization",
+        "@id": "https://payment.utem.edu.my/#organization",
         "name": "bandar togel",
-        "url": "https://payment.utem.edu.my/en/",
+        "url": "https://payment.utem.edu.my/",
         "logo": "https://gambardunia.xyz/bonengjitu/logobng.webp",
         "sameAs": [
     
@@ -718,32 +718,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://payment.utem.edu.my/en/#breadcrumb",
+        "@id": "https://payment.utem.edu.my/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "BONENGJITU",
-            "item": "https://payment.utem.edu.my/en/-BONENGJITU"
+            "item": "https://payment.utem.edu.my/-BONENGJITU"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "BONENGJITU",
-            "item": "https://payment.utem.edu.my/en/-BONENG-JITU"
+            "item": "https://payment.utem.edu.my/-BONENG-JITU"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "BONENGJITU togel",
-            "item": "https://payment.utem.edu.my/en/-BONENG-JITU"
+            "item": "https://payment.utem.edu.my/-BONENG-JITU"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://payment.utem.edu.my/en/demo#product",
+        "@id": "https://payment.utem.edu.my/demo#product",
         "name": "togel online",
         "image": [
           "https://kakak-cungkok.pages.dev/BJ/togel-online.jpg"
@@ -755,7 +755,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "BONENGJITU-Togel",
         "category": "BONENGJITU Gacor",
-        "url": "https://payment.utem.edu.my/en/",
+        "url": "https://payment.utem.edu.my/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -799,7 +799,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://payment.utem.edu.my/en/",
+          "url": "https://payment.utem.edu.my/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -808,7 +808,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://payment.utem.edu.my/en/#merchant-listing",
+        "@id": "https://payment.utem.edu.my/#merchant-listing",
         "name": "Situs Toto",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -817,9 +817,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://payment.utem.edu.my/en//demo-BONENGJITU#product",
+              "@id": "https://payment.utem.edu.my//demo-BONENGJITU#product",
               "name": "BONENGJITU",
-              "url": "https://payment.utem.edu.my/en//demo-BONENGJITU",
+              "url": "https://payment.utem.edu.my//demo-BONENGJITU",
               "image": "https://kakak-cungkok.pages.dev/BJ/togel-online.jpg",
               "description": "Temukan BONENGJITU sebagai situs togel online terbaik dengan performa cepat, keamanan tinggi, dan kemudahan akses di berbagai perangkat. Pilihan tepat untuk pengalaman online yang lebih praktis.",
               "brand": {
@@ -834,7 +834,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://payment.utem.edu.my/en//BONENGJITU-gacor",
+                "url": "https://payment.utem.edu.my//BONENGJITU-gacor",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -846,9 +846,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://payment.utem.edu.my/en//#product",
+              "@id": "https://payment.utem.edu.my//#product",
               "name": "situs toto",
-              "url": "https://payment.utem.edu.my/en/",
+              "url": "https://payment.utem.edu.my/",
               "image": "https://kakak-cungkok.pages.dev/BJ/togel-online.jpg",
               "description": "Temukan BONENGJITU sebagai situs togel online terbaik dengan performa cepat, keamanan tinggi, dan kemudahan akses di berbagai perangkat. Pilihan tepat untuk pengalaman online yang lebih praktis.",
               "brand": {
@@ -863,7 +863,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://payment.utem.edu.my/en/",
+                "url": "https://payment.utem.edu.my/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -875,9 +875,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://payment.utem.edu.my/en//BONENGJITU-resmi#product",
+              "@id": "https://payment.utem.edu.my//BONENGJITU-resmi#product",
               "name": "BONENGJITU",
-              "url": "https://payment.utem.edu.my/en//BONENGJITU-resmi",
+              "url": "https://payment.utem.edu.my//BONENGJITU-resmi",
               "image": "https://kakak-cungkok.pages.dev/BJ/togel-online.jpg",
               "description": "Temukan BONENGJITU sebagai situs togel online terbaik dengan performa cepat, keamanan tinggi, dan kemudahan akses di berbagai perangkat. Pilihan tepat untuk pengalaman online yang lebih praktis.",
               "brand": {
@@ -892,7 +892,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://payment.utem.edu.my/en//BONENGJITU-gacor",
+                "url": "https://payment.utem.edu.my//BONENGJITU-gacor",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -910,27 +910,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://payment.utem.edu.my/en/#org",
+      "@id": "https://payment.utem.edu.my/#org",
       "name": "BONENGJITU",
-      "url": "https://payment.utem.edu.my/en/",
+      "url": "https://payment.utem.edu.my/",
       "logo": "https://kakak-cungkok.pages.dev/BJ/togel-online.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://payment.utem.edu.my/en/#website",
-      "url": "https://payment.utem.edu.my/en/",
+      "@id": "https://payment.utem.edu.my/#website",
+      "url": "https://payment.utem.edu.my/",
       "name": "BONENGJITU",
-      "publisher": { "@id": "https://payment.utem.edu.my/en/#org" },
+      "publisher": { "@id": "https://payment.utem.edu.my/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://payment.utem.edu.my/en/?s={search_term_string}",
+        "target": "https://payment.utem.edu.my/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://payment.utem.edu.my/en/#app",
+      "@id": "https://payment.utem.edu.my/#app",
       "name": "BONENGJITU",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1039,7 +1039,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="togel" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="togel" class="nv00-gnb-v4__logo" href="https://payment.utem.edu.my/en/">
+       <a an-ac="gnb" an-ca="navigation" an-la="togel" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="togel" class="nv00-gnb-v4__logo" href="https://payment.utem.edu.my/">
         <img src="https://gambardunia.xyz/bonengjitu/logobng.webp" alt="" width="200" height="56">
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1321,7 +1321,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menu">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/en/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             BONENGJITU
             </span>
@@ -1338,7 +1338,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/en/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              BONENGJITU LOGIN
             </span>
@@ -1352,7 +1352,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/en/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS TOTO
             </span>
@@ -1366,7 +1366,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/en/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              BONENGJITU RESMI
             </span>
@@ -1380,7 +1380,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/en/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              TOTO TOGEL
             </span>
@@ -1394,7 +1394,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/en/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              BANDAR TOGEL
             </span>
@@ -1427,7 +1427,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="BONENGJITU DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="BONENGJITU Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/en/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="BONENGJITU DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="BONENGJITU Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://payment.utem.edu.my/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1435,10 +1435,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://payment.utem.edu.my/en/" href="https://payment.utem.edu.my/en/" role="menuitem">
+         <a data-linkinfo="https://payment.utem.edu.my/" href="https://payment.utem.edu.my/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://payment.utem.edu.my/en/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://payment.utem.edu.my/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1458,7 +1458,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://payment.utem.edu.my/en/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://payment.utem.edu.my/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1503,10 +1503,10 @@ digitalData.page.pageInfo.pageName = pageName;
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://payment.utem.edu.my/en/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://payment.utem.edu.my/en/'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://payment.utem.edu.my/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://payment.utem.edu.my/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://payment.utem.edu.my/en/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://payment.utem.edu.my/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1522,7 +1522,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="togel" an-tr="nv00_gnb-product detail-account-account" aria-label="togel" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://payment.utem.edu.my/en/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="togel" an-tr="nv00_gnb-product detail-account-account" aria-label="togel" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://payment.utem.edu.my/" role="menuitem">
               togel
             </a>
            </div>
@@ -1549,7 +1549,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </svg>
              <p class="user-name"></p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://payment.utem.edu.my/en/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://payment.utem.edu.my/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2097,10 +2097,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://payment.utem.edu.my/en/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://payment.utem.edu.my/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://payment.utem.edu.my/en/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://payment.utem.edu.my/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2600,7 +2600,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/en/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/">
              Add to cart
             </a>
            </div>
@@ -2759,7 +2759,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://payment.utem.edu.my/en/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://payment.utem.edu.my/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4157,7 +4157,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://payment.utem.edu.my/en/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://payment.utem.edu.my/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6056,7 +6056,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
 <!-- Article Content -->
 <div class="highlight-box">
-<p style="text-align: justify;"><a href="https://payment.utem.edu.my/en/">BONENGJITU</a> BONENGJITU adalah bandar togel online terpercaya yang menawarkan pengalaman bermain yang adil dan menyenangkan. Dengan pasaran terlengkap di situs toto resmi tahun ini, kami siap menemani Anda dalam setiap langkah permainan. Bergabunglah dengan kami dan nikmati kesempatan untuk meraih kemenangan dengan mudah dan aman.</p>
+<p style="text-align: justify;"><a href="https://payment.utem.edu.my/">BONENGJITU</a> BONENGJITU adalah bandar togel online terpercaya yang menawarkan pengalaman bermain yang adil dan menyenangkan. Dengan pasaran terlengkap di situs toto resmi tahun ini, kami siap menemani Anda dalam setiap langkah permainan. Bergabunglah dengan kami dan nikmati kesempatan untuk meraih kemenangan dengan mudah dan aman.</p>
         </div>
                 </div>
       <!-- Reviews Section -->
@@ -6401,42 +6401,42 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     BONENGJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     BONENGJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     SITUS TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     TOGEL ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     TOTO TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     BANDAR TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     LINK TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     TOGEL LOGIN
                   </a>
                 </li>
@@ -6461,37 +6461,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Program Referral
                   </a>
                 </li>
@@ -6517,37 +6517,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6588,17 +6588,17 @@ digitalData.page.pageInfo.pageName = pageName;
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Program VIP
                   </a>
                 </li>
@@ -6625,22 +6625,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6664,22 +6664,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Tentang BONENGJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Kenapa Pilih BONENGJITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://payment.utem.edu.my/en/" an-as="">
+                  <a class="footer-category__link" href="https://payment.utem.edu.my/" an-as="">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6699,7 +6699,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://payment.utem.edu.my/en/" an-as="">
+            <a class="footer-language__anchor" href="https://payment.utem.edu.my/" an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6707,7 +6707,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://payment.utem.edu.my/en/" an-as="">
+            <a class="footer-language__anchor" href="https://payment.utem.edu.my/" an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -9196,7 +9196,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://payment.utem.edu.my/en/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://payment.utem.edu.my/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -9477,7 +9477,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/en/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -9500,7 +9500,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/en/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -9577,11 +9577,11 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://payment.utem.edu.my/en/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://payment.utem.edu.my/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/en/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/" role="button">
         </a>
        </div>
       </div>
@@ -9647,12 +9647,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://payment.utem.edu.my/en/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://payment.utem.edu.my/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://payment.utem.edu.my/en/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://payment.utem.edu.my/" role="button">
            Yakin
           </a>
          </div>
@@ -9677,7 +9677,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/en/">
+        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/">
          Bestätigen
         </a>
        </div>
@@ -9700,7 +9700,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/en/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://payment.utem.edu.my/" title="">
          Bestätigen
         </a>
        </div>
@@ -9751,12 +9751,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://payment.utem.edu.my/en/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://payment.utem.edu.my/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://payment.utem.edu.my/en/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://payment.utem.edu.my/" role="button">
            Yakin
           </a>
          </div>
