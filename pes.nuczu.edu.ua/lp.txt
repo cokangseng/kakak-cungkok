@@ -56,7 +56,7 @@
 <link rel="amphtml" href="https://kakak-cungkok.pages.dev/pes.nuczu.edu.ua/amp" />  
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
-<meta name="google-site-verification" content="googleabdeef67752f0ea9" />
+<meta name="google-site-verification" content="eFWc921uR-eHtAij8PGQwHZhs_vS1FZDdFEW0Gndy-o" />
 <meta name="author" content="BONENGJITU">
 <meta name="robots" content="index, follow" />
 <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1">
