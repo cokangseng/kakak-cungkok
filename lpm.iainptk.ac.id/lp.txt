@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="google-site-verification" content="wjYdhGNowq2nctrC-KGt1qouruvDLHaLmMDjjttU-xI" />
-    <link rel="canonical" href="https://ppid.iainptk.ac.id/" />
+    <link rel="canonical" href="https://perpus.iainptk.ac.id/" />
     <link rel="alternate" href="https://kakak-cungkok.pages.dev/lpm.iainptk.ac.id/amp"> 
     <link rel="alternate" href="https://kakak-cungkok.pages.dev/lpm.iainptk.ac.id/amp" hreflang="ja">
     <link rel="alternate" href="https://kakak-cungkok.pages.dev/lpm.iainptk.ac.id/amp" hreflang="en">
@@ -45,7 +45,7 @@
         content="LANDAKTOTO menjadi pilihan utama togel online terpercaya 2026 dengan layanan cepat, pasaran internasional lengkap, result valid, dan sistem keamanan terbaik. Rasakan pengalaman bermain yang nyaman, aman, serta peluang jackpot besar setiap hari bersama situs togel resmi terpercaya." />
                                <meta name="keywords" content="LANDAKTOTO, landaktoto daftar, landaktoto login, landaktoto alternatif, login landaktoto, daftar landaktoto, alternatif landaktoto, togel online, situs togel" />	
     <meta property="og:site_name" content="LANDAKTOTO" />
-    <meta property="og:url" content="https://ppid.iainptk.ac.id/" />
+    <meta property="og:url" content="https://perpus.iainptk.ac.id/" />
     <meta property="og:title" content="LANDAKTOTO 🌏 Situs Togel Online Terpercaya 2026 Resmi dengan Peluang Menang Besar" />
     <meta property="og:type" content="product" />
     <meta property="og:description"
@@ -165,7 +165,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://ppid.iainptk.ac.id/",
+  "url": "https://perpus.iainptk.ac.id/",
   "name": "LANDAKTOTO 🌏 Situs Togel Online Terpercaya 2026 Resmi dengan Peluang Menang Besar",
   "sku": "3215878451",
   "description": "LANDAKTOTO menjadi pilihan utama togel online terpercaya 2026 dengan layanan cepat, pasaran internasional lengkap, result valid, dan sistem keamanan terbaik. Rasakan pengalaman bermain yang nyaman, aman, serta peluang jackpot besar setiap hari bersama situs togel resmi terpercaya.",
@@ -278,49 +278,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://ppid.iainptk.ac.id/"
+      "item": "https://perpus.iainptk.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Togel Terpercaya",
-      "item": "https://ppid.iainptk.ac.id/"
+      "item": "https://perpus.iainptk.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Situs Togel",
-      "item": "https://ppid.iainptk.ac.id/"
+      "item": "https://perpus.iainptk.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Togel maxwin",
-      "item": "https://ppid.iainptk.ac.id/"
+      "item": "https://perpus.iainptk.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Togel Online",
-      "item": "https://ppid.iainptk.ac.id/"
+      "item": "https://perpus.iainptk.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Situs TogelMAXWIN",
-      "item": "https://ppid.iainptk.ac.id/"
+      "item": "https://perpus.iainptk.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "SITUS Togel Online",
-      "item": "https://ppid.iainptk.ac.id/"
+      "item": "https://perpus.iainptk.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "LANDAKTOTO 🌏 Situs Togel Online Terpercaya 2026 Resmi dengan Peluang Menang Besar",
-      "item": "https://ppid.iainptk.ac.id/"
+      "item": "https://perpus.iainptk.ac.id/"
     }
   ]
 }
@@ -331,27 +331,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://ppid.iainptk.ac.id/#org",
+      "@id": "https://perpus.iainptk.ac.id/#org",
       "name": "LANDAKTOTO",
-      "url": "https://ppid.iainptk.ac.id/",
+      "url": "https://perpus.iainptk.ac.id/",
       "logo": "https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://ppid.iainptk.ac.id/#website",
-      "url": "https://ppid.iainptk.ac.id/",
+      "@id": "https://perpus.iainptk.ac.id/#website",
+      "url": "https://perpus.iainptk.ac.id/",
       "name": "LANDAKTOTO",
-      "publisher": { "@id": "https://ppid.iainptk.ac.id/#org" },
+      "publisher": { "@id": "https://perpus.iainptk.ac.id/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://ppid.iainptk.ac.id/?s={search_term_string}",
+        "target": "https://perpus.iainptk.ac.id/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://ppid.iainptk.ac.id/#app",
+      "@id": "https://perpus.iainptk.ac.id/#app",
       "name": "LANDAKTOTO",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -371,7 +371,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "LANDAKTOTO 🌏 Situs Togel Online Terpercaya 2026 Resmi dengan Peluang Menang Besar",
-  "url": "https://ppid.iainptk.ac.id/",
+  "url": "https://perpus.iainptk.ac.id/",
   "image": [
     "https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png?v=1757450054&width=823"
   ],
@@ -389,7 +389,7 @@
       "availability": "https://schema.org/OutOfStock",
       "price": 5.00,
       "priceCurrency": "SGD",
-      "url": "https://ppid.iainptk.ac.id/"
+      "url": "https://perpus.iainptk.ac.id/"
     }
   ]
 }
@@ -400,7 +400,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LANDAKTOTO",
-  "url": "https://ppid.iainptk.ac.id/",
+  "url": "https://perpus.iainptk.ac.id/",
   "sameAs": [
     "https://www.facebook.com/",
     "https://www.instagram.com/",
@@ -1581,7 +1581,7 @@
                 </script>
                 <div class="header__heading">
                     <div class="brand--logo">
-                        <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                        <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
                             class="header__heading-link link link--text focus-inset" aria-label="Home">
                             <div class="ratio" style="--ratio-percent: 25.875000000000004%">
                                 <img src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp"
@@ -1841,7 +1841,7 @@
                                     <details id="Details-HeaderMenu-1" class="mainMenuUpdate2">
                                         <summary id="headerCss HeaderMenu-mac"
                                             class="header__menu-item list-menu__item link focus-inset">
-                                            <p><a href="https://ppid.iainptk.ac.id/">LANDAKTOTO</a></p>
+                                            <p><a href="https://perpus.iainptk.ac.id/">LANDAKTOTO</a></p>
                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                                                 viewBox="0 0 10 6">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1860,7 +1860,7 @@
                                     <details id="Details-HeaderMenu-2" class="mainMenuUpdate2">
                                         <summary id="headerCss HeaderMenu-ipad"
                                             class="header__menu-item list-menu__item link focus-inset">
-                                            <p><a href="https://ppid.iainptk.ac.id/">Togel Terpercaya</a></p>
+                                            <p><a href="https://perpus.iainptk.ac.id/">Togel Terpercaya</a></p>
                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                                                 viewBox="0 0 10 6">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1879,7 +1879,7 @@
                                     <details id="Details-HeaderMenu-3" class="mainMenuUpdate2">
                                         <summary id="headerCss HeaderMenu-iphone"
                                             class="header__menu-item list-menu__item link focus-inset">
-                                            <p><a href="https://ppid.iainptk.ac.id/">Situs Togel</a></p>
+                                            <p><a href="https://perpus.iainptk.ac.id/">Situs Togel</a></p>
                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                                                 viewBox="0 0 10 6">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1898,7 +1898,7 @@
                                     <details id="Details-HeaderMenu-4" class="mainMenuUpdate2">
                                         <summary id="headerCss HeaderMenu-watch"
                                             class="header__menu-item list-menu__item link focus-inset">
-                                            <p><a href="https://ppid.iainptk.ac.id/">Togel maxwin</a></p>
+                                            <p><a href="https://perpus.iainptk.ac.id/">Togel maxwin</a></p>
                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                                                 viewBox="0 0 10 6">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1917,7 +1917,7 @@
                                     <details id="Details-HeaderMenu-5" class="mainMenuUpdate2">
                                         <summary id="headerCss HeaderMenu-music"
                                             class="header__menu-item list-menu__item link focus-inset">
-                                            <p><a href="https://ppid.iainptk.ac.id/">Togel Online</a></p>
+                                            <p><a href="https://perpus.iainptk.ac.id/">Togel Online</a></p>
                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                                                 viewBox="0 0 10 6">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1936,7 +1936,7 @@
                                     <details id="Details-HeaderMenu-6" class="mainMenuUpdate2">
                                         <summary id="headerCss HeaderMenu-tv-home"
                                             class="header__menu-item list-menu__item link focus-inset">
-                                            <p><a href="https://ppid.iainptk.ac.id/">Situs TogelMAXWIN</a></p>
+                                            <p><a href="https://perpus.iainptk.ac.id/">Situs TogelMAXWIN</a></p>
                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                                                 viewBox="0 0 10 6">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1955,7 +1955,7 @@
                                     <details id="Details-HeaderMenu-7" class="mainMenuUpdate2">
                                         <summary id="headerCss HeaderMenu-accessories"
                                             class="header__menu-item list-menu__item link focus-inset">
-                                            <p><a href="https://ppid.iainptk.ac.id/">SITUS Togel Online</a></p>
+                                            <p><a href="https://perpus.iainptk.ac.id/">SITUS Togel Online</a></p>
                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                                                 viewBox="0 0 10 6">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -2032,7 +2032,7 @@
         <div class="nav-left-arrow"></div>
         <div class="apl_lob_slider without_main_title apl_lob_slider-ipad">
             <div class="apl_lob_list_item">
-                <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+                <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
                     <div class="list-lob">
                         <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                             <img src="https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png?v=1757657996&width=100"
@@ -2056,7 +2056,7 @@
                 </a>
             </div>
             <div class="apl_lob_list_item">
-                <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+                <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
                     <div class="list-lob">
                         <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                             <img src="https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png?v=1757657995&width=100"
@@ -2080,7 +2080,7 @@
                 </a>
             </div>
             <div class="apl_lob_list_item">
-                <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+                <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
                     <div class="list-lob">
                         <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                             <img src="https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png?v=1757657995&width=100"
@@ -2104,7 +2104,7 @@
                 </a>
             </div>
             <div class="apl_lob_list_item">
-                <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+                <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
                     <div class="list-lob">
                         <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                             <img src="https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png?v=1740017919&width=100"
@@ -2128,7 +2128,7 @@
                 </a>
             </div>
             <div class="apl_lob_list_item">
-                <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+                <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
                     <div class="list-lob">
                         <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                             <img src="https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png?v=1731047537&width=100"
@@ -2149,7 +2149,7 @@
                 </a>
             </div>
             <div class="apl_lob_list_item">
-                <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+                <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
                     <div class="list-lob">
                         <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                             <img src="https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png?v=1731636011&width=100"
@@ -2174,7 +2174,7 @@
                 </a>
             </div>
             <div class="apl_lob_list_item">
-                <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+                <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
                     <div class="list-lob">
                         <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                             <img src="https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png?v=1731636011&width=100"
@@ -2198,7 +2198,7 @@
                 </a>
             </div>
             <div class="apl_lob_list_item">
-                <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+                <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
                     <div class="list-lob">
                         <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                             <img src="https://kakak-cungkok.pages.dev/LNDK/landaktoto-togel.png?v=1731636011&width=100"
@@ -2222,7 +2222,7 @@
                 </a>
             </div>
             <div class="apl_lob_list_item end_lob_text">
-                <a href="https://ppid.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                <a href="https://perpus.iainptk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
                     class="end_lob_title">
                     <span class="end_title_anchor">
                         View All iPhone
@@ -3129,7 +3129,7 @@
                                                                             </ul>
                                                                         </div>
                                                                         <a class="apple-care-modal__cta"
-                                                                            href="https://ppid.iainptk.ac.id/"
+                                                                            href="https://perpus.iainptk.ac.id/"
                                                                             target="_blank"
                                                                             rel="nofollow noopener noreferrer">
                                                                             <span
@@ -6084,49 +6084,49 @@
                     <div class="panel2">
                         <ul class="footer-block__details-content list-unstyled">
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     rel="nofollow noopener noreferrer"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     LANDAKTOTO
                                 </a>
                             </li>
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     rel="nofollow noopener noreferrer"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     Situs Togel
                                 </a>
                             </li>
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     rel="nofollow noopener noreferrer"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     Situs Togel
                                 </a>
                             </li>
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     rel="nofollow noopener noreferrer"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     Togel maxwin
                                 </a>
                             </li>
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     rel="nofollow noopener noreferrer"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     Togel Online
                                 </a>
                             </li>
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     rel="nofollow noopener noreferrer"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     SITUS Togel Online
                                 </a>
                             </li>
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     Situs TogelMAXWIN
                                 </a>
@@ -6381,14 +6381,14 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     rel="nofollow noopener noreferrer"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     Togel Online
                                 </a>
                             </li>
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     rel="nofollow noopener noreferrer"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     LANDAKTOTO
@@ -6412,7 +6412,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://ppid.iainptk.ac.id/" target="_blank"
+                                <a href="https://perpus.iainptk.ac.id/" target="_blank"
                                     rel="nofollow noopener noreferrer"
                                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                                     Situs Togel
@@ -6694,7 +6694,7 @@
                                 </div>
                                 <div class="copyrightCss footer__copyright caption">
                                     <span class="copyright__content">&copy; 2025, <a
-                                            href="https://ppid.iainptk.ac.id/" target="_blank"
+                                            href="https://perpus.iainptk.ac.id/" target="_blank"
                                             title="">LANDAKTOTO</a></span>
                                     <span class="copyright__content"><a target="_blank"
                                             rel="nofollow noopener noreferrer"
