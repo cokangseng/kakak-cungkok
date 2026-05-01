@@ -6342,7 +6342,7 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi MADAMTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://kakak-cungkok.pages.dev/alwaysvj.com/amp"><img width="200" height="60" loading="lazy" src="https://kilat.digital/images/2026/04/24/a3ceb58c3f6b38c0f391b04006bbaf2a.png" alt="download app apple store">
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi MADAMTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://kakak-cungkok.pages.dev/alwaysvj.com/amp"><img width="200" height="60" loading="lazy" src="https://kakak-cungkok.pages.dev/MDM/totomacau-togel.png" alt="download app apple store">
 </a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://kakak-cungkok.pages.dev/alwaysvj.com/amp"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
@@ -7210,7 +7210,7 @@ margin:0 26px 35px;
 
       <div class="popup-footer">
         MADAMTOTO ⭐️ Toto Macau Terpercaya dengan Link Togel Online Server Premium<br>
-        <span>© Copyright 2014 - 2026 MADAMTOTO | SEO ANYA</span>
+        <span>© Copyright 2014 - 2026 MADAMTOTO | SEO tauhin</span>
       </div>
     </div>
 
